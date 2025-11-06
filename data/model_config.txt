@@ -1,0 +1,10 @@
+CJ-LLM Character Language Model
+VOCAB_SIZE: 30
+EMBEDDING_DIM: 128
+FFN_DIM: 256
+TOTAL_PARAMETERS: 44574
+EPOCHS_TRAINED: 5
+MODEL_TYPE: SimpleFFN
+LOSS_FUNCTION: cross_entropy
+POOLING: masked_mean
+WEIGHTS_FILE: model_weights.bin
